@@ -40,3 +40,7 @@ Un job rosso ti dice la riga esatta. Non completare tutto e poi sperare.
 - Repository **pubblico** (senza, gli *environment* con approvazione non si possono creare).
 - Puoi consultare i tuoi appunti, il deck delle lezioni e la documentazione ufficiale di GitHub.
 - Non condividere codice o risposte con altri studenti.
+
+
+
+:)
