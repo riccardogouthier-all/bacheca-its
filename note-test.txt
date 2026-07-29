@@ -1,0 +1,4 @@
+chiave di accesso AWS: AKIAABCDEFGHIJ1234K
+password = miaPassword123
+passwd:secret123
+pwd=mysecretpassword
